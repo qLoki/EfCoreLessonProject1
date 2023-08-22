@@ -1,0 +1,14 @@
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\EFLesson1Training.exe
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\EFLesson1Training.deps.json
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\EFLesson1Training.runtimeconfig.json
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\EFLesson1Training.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\EFLesson1Training.pdb
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.AssemblyInfo.cs
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\refint\EFLesson1Training.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.pdb
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.genruntimeconfig.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\ref\EFLesson1Training.dll
