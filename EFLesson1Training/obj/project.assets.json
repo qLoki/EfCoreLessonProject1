@@ -1155,6 +1155,20 @@
             "rid": "win"
           }
         }
+      },
+      "Lesson1(EFCore_DBLibrary)/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10"
+        },
+        "compile": {
+          "bin/placeholder/Lesson1(EFCore_DBLibrary).dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lesson1(EFCore_DBLibrary).dll": {}
+        }
       }
     }
   },
@@ -3500,10 +3514,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Lesson1(EFCore_DBLibrary)/1.0.0": {
+      "type": "project",
+      "path": "../Lesson1(EFCore_DBLibrary)/Lesson1(EFCore_DBLibrary)/Lesson1(EFCore_DBLibrary).csproj",
+      "msbuildProject": "../Lesson1(EFCore_DBLibrary)/Lesson1(EFCore_DBLibrary)/Lesson1(EFCore_DBLibrary).csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Lesson1(EFCore_DBLibrary) >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
@@ -3536,7 +3556,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary).csproj": {
+              "projectPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary).csproj"
+            }
+          }
         }
       },
       "warningProperties": {
