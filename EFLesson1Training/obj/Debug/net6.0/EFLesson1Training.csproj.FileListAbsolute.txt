@@ -71,3 +71,10 @@ C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.csproj.CopyComplete
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Lesson1(EFCore_DBLibrary).dll
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Lesson1(EFCore_DBLibrary).pdb
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\appsettings.json
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
