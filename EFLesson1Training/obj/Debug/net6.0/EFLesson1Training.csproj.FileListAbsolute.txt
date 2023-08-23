@@ -69,3 +69,5 @@ C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.csproj.AssemblyReference.cache
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.csproj.CopyComplete
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Lesson1(EFCore_DBLibrary).dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Lesson1(EFCore_DBLibrary).pdb
