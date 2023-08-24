@@ -7,6 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "EFLesson1Training/1.0.0": {
+<<<<<<< HEAD
         "dependencies": {
           "Lesson1(EFCore_DBLibrary)": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.10",
@@ -786,6 +787,11 @@
         "runtime": {
           "Lesson1(EFCore_DBLibrary).dll": {}
         }
+=======
+        "runtime": {
+          "EFLesson1Training.dll": {}
+        }
+>>>>>>> parent of 735619a (Backup1)
       }
     }
   },
@@ -794,6 +800,7 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+<<<<<<< HEAD
     },
     "Azure.Core/1.24.0": {
       "type": "package",
@@ -1317,6 +1324,8 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+=======
+>>>>>>> parent of 735619a (Backup1)
     }
   }
 }

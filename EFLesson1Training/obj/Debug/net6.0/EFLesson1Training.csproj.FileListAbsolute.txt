@@ -12,6 +12,7 @@ C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.pdb
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\EFLesson1Training.genruntimeconfig.cache
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\obj\Debug\net6.0\ref\EFLesson1Training.dll
+<<<<<<< HEAD
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Humanizer.dll
@@ -78,3 +79,5 @@ C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\EFLesson1Training\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+=======
+>>>>>>> parent of 735619a (Backup1)

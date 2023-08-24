@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gBemJ5Hz4aopJo0/LxJC5ShI5+B5i6P1lA+s0MhJYbNT8sa8gD9I9Xt9lRrBP3FwZS0QY8wU2U/7itWL0GRWTA==",
+  "dgSpecHash": "4dtEzown2A78ZXjdi6/nRpltsqZUmNPq14Gy8TSxvNsNSimeBLUpPwsZgr6INWNR9S5A5r7CN/TlZHzfP+eQQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson1Training.csproj",
   "expectedPackageFiles": [
@@ -79,5 +79,12 @@
     "C:\\Users\\vboxuser\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\vboxuser\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
