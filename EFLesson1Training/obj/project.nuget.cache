@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gBemJ5Hz4aopJo0/LxJC5ShI5+B5i6P1lA+s0MhJYbNT8sa8gD9I9Xt9lRrBP3FwZS0QY8wU2U/7itWL0GRWTA==",
+  "dgSpecHash": "+o4MsHzPQtS/k0DbLaZarSvslSYwWc59anBNN94P2cbCXemsbIzZfe7y+QgGSNS/qxQv0c5pme9RwLQlhl7X8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson1Training.csproj",
+  "projectFilePath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson2Training.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vboxuser\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\vboxuser\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

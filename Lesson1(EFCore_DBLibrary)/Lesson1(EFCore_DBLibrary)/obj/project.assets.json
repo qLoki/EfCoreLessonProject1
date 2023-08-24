@@ -3515,9 +3515,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary).csproj",
-      "projectName": "Lesson1(EFCore_DBLibrary)",
-      "projectPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary).csproj",
+      "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson2(EFCore_DBLibrary).csproj",
+      "projectName": "Lesson2(EFCore_DBLibrary)",
+      "projectPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson2(EFCore_DBLibrary).csproj",
       "packagesPath": "C:\\Users\\vboxuser\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\obj\\",
       "projectStyle": "PackageReference",

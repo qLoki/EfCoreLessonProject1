@@ -1278,7 +1278,7 @@
           }
         }
       },
-      "Lesson1(EFCore_DBLibrary)/1.0.0": {
+      "Lesson2(EFCore_DBLibrary)/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -1286,10 +1286,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10"
         },
         "compile": {
-          "bin/placeholder/Lesson1(EFCore_DBLibrary).dll": {}
+          "bin/placeholder/Lesson2(EFCore_DBLibrary).dll": {}
         },
         "runtime": {
-          "bin/placeholder/Lesson1(EFCore_DBLibrary).dll": {}
+          "bin/placeholder/Lesson2(EFCore_DBLibrary).dll": {}
         }
       }
     }
@@ -3801,15 +3801,15 @@
         "version.txt"
       ]
     },
-    "Lesson1(EFCore_DBLibrary)/1.0.0": {
+    "Lesson2(EFCore_DBLibrary)/1.0.0": {
       "type": "project",
-      "path": "../Lesson1(EFCore_DBLibrary)/Lesson1(EFCore_DBLibrary)/Lesson1(EFCore_DBLibrary).csproj",
-      "msbuildProject": "../Lesson1(EFCore_DBLibrary)/Lesson1(EFCore_DBLibrary)/Lesson1(EFCore_DBLibrary).csproj"
+      "path": "../Lesson1(EFCore_DBLibrary)/Lesson1(EFCore_DBLibrary)/Lesson2(EFCore_DBLibrary).csproj",
+      "msbuildProject": "../Lesson1(EFCore_DBLibrary)/Lesson1(EFCore_DBLibrary)/Lesson2(EFCore_DBLibrary).csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Lesson1(EFCore_DBLibrary) >= 1.0.0",
+      "Lesson2(EFCore_DBLibrary) >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
@@ -3825,9 +3825,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson1Training.csproj",
-      "projectName": "EFLesson1Training",
-      "projectPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson1Training.csproj",
+      "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson2Training.csproj",
+      "projectName": "EFLesson2Training",
+      "projectPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson2Training.csproj",
       "packagesPath": "C:\\Users\\vboxuser\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\obj\\",
       "projectStyle": "PackageReference",
@@ -3846,8 +3846,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary).csproj": {
-              "projectPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary).csproj"
+            "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson2(EFCore_DBLibrary).csproj": {
+              "projectPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson2(EFCore_DBLibrary).csproj"
             }
           }
         }

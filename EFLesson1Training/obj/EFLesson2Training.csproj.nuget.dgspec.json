@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson2Training.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson2Training.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson2Training.csproj",
+        "projectName": "EFLesson2Training",
+        "projectPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\EFLesson2Training.csproj",
+        "packagesPath": "C:\\Users\\vboxuser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\EFLesson1Training\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vboxuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson2(EFCore_DBLibrary).csproj": {
+                "projectPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson2(EFCore_DBLibrary).csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson2(EFCore_DBLibrary).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson2(EFCore_DBLibrary).csproj",
+        "projectName": "Lesson2(EFCore_DBLibrary)",
+        "projectPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson2(EFCore_DBLibrary).csproj",
+        "packagesPath": "C:\\Users\\vboxuser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vboxuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

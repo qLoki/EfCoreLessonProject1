@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XnIP7RQpnjSOkaDrPMYDJN6nnWZPKAuHBl6nEfjDGRsu/oD4xHBgl/JWYqkYJKOaq8zZ3C7RHYa9O/2B6IZnNw==",
+  "dgSpecHash": "+UoReXBgdgu7oNhYq+TDwLakl4meD8tEVf5DTAZ0kYuWMq2i2n8Ukl8fmFPYTm468xW68b9tr/1+95cTw+yb/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary).csproj",
+  "projectFilePath": "C:\\Users\\vboxuser\\Desktop\\Проекты\\C# projects\\EntityFrameworkBookLessons\\EfCoreLessonProject1\\Lesson1(EFCore_DBLibrary)\\Lesson1(EFCore_DBLibrary)\\Lesson2(EFCore_DBLibrary).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vboxuser\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\vboxuser\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
