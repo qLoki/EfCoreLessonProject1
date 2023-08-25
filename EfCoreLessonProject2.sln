@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFLesson1Training", "EFLesson1Training\EFLesson1Training.csproj", "{24624F8D-6A59-4917-99C2-8A5A59CF882C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFLesson2Training", "EFLesson1Training\EFLesson2Training.csproj", "{24624F8D-6A59-4917-99C2-8A5A59CF882C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson1(EFCore_DBLibrary)", "Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary).csproj", "{7EE755FA-8D68-4325-8501-6082DD0672EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson2(EFCore_DBLibrary)", "Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\Lesson2(EFCore_DBLibrary).csproj", "{7EE755FA-8D68-4325-8501-6082DD0672EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

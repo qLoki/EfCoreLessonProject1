@@ -1,0 +1,14 @@
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\bin\Debug\net6.0\Lesson2(EFCore_DBLibrary).deps.json
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\bin\Debug\net6.0\Lesson2(EFCore_DBLibrary).runtimeconfig.json
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\bin\Debug\net6.0\Lesson2(EFCore_DBLibrary).dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\bin\Debug\net6.0\Lesson2(EFCore_DBLibrary).pdb
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\obj\Debug\net6.0\Lesson2(EFCore_DBLibrary).csproj.AssemblyReference.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\obj\Debug\net6.0\Lesson2(EFCore_DBLibrary).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\obj\Debug\net6.0\Lesson2(EFCore_DBLibrary).AssemblyInfoInputs.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\obj\Debug\net6.0\Lesson2(EFCore_DBLibrary).AssemblyInfo.cs
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\obj\Debug\net6.0\Lesson2(EFCore_DBLibrary).csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\obj\Debug\net6.0\Lesson2(EFCore_DBLibrary).dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\obj\Debug\net6.0\refint\Lesson2(EFCore_DBLibrary).dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\obj\Debug\net6.0\Lesson2(EFCore_DBLibrary).pdb
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\obj\Debug\net6.0\Lesson2(EFCore_DBLibrary).genruntimeconfig.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\EfCoreLessonProject1\Lesson1(EFCore_DBLibrary)\Lesson1(EFCore_DBLibrary)\obj\Debug\net6.0\ref\Lesson2(EFCore_DBLibrary).dll
